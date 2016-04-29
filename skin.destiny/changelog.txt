@@ -1,4 +1,0 @@
-Changelog:
-
-2.0.0
-- Version fuer Kodi 17
